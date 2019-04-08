@@ -6,3 +6,4 @@ Providing REST APIs for certain consumers
 //Hab die Änderungen aus dem Server gelöscht und jetzt die Änderungen  Loakl festgehalten.
 
 
+Möchte jetzt die Änderungen auf dem Server behalten und alles andere Löschen!!!!
